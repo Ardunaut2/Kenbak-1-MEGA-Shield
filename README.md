@@ -1,2 +1,3 @@
 # kenbakuino_MEGA
 Adapting the Kenbak-1 Simulator  "kenbakuino" to run on the Arduino MEGA.
+<img src="/Pictures/Kenbak_MEGA_10_06.png" alt="KiCAD 3D View" style="width: 300px; height: 200px;">
