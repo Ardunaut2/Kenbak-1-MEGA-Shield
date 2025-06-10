@@ -3,6 +3,5 @@ Adapting the Mark Wilson's kenbakuino (https://github.com/funnypolynomial/Kenbak
 
 <div style="text-align: center;">
   <img src="/Pictures/Kenbak_MEGA_10_06.png" alt="Centered image" style="display: block; margin: 0 auto;">
-  Kenbak-1 Arduino MEGA Shield
 </div>
-
+<p style="text-align: center;">Kenbak-1 Arduino MEGA Shield</p>
