@@ -1,0 +1,16 @@
+Kenbak MEGA Part List:
+
+Item  Description                                                        Qty
+ 1.- Resistor 1/4W 4.7k 5% (R1-R8) .....................................  8
+ 2.- Resistor 1/4W 560 5% (R9-R12) .....................................  4
+ 3.- 3mm Warm White Diffused led (D1-D8) ...............................  8
+ 4.- 3mm Yellow Diffused led (D9-D12) ..................................  4
+ 5.- Same Sky TS02-66-43-BK-100-LCR-D Tactile Switch 6x6mm 4.3mm Height 
+     100gr actuation force, Black (SW1-SW4, SW9, SW11, SW13, SW15)......  8
+ 6.- OMRON B3F-1000 Tactile Switch 6x6mm 4.3mm Height
+     100gr actuation force, White (SW5-SW8, SW10, SW12, SW14) ..........  7
+ 7.- 5-pin header ......................................................  1
+ 8.- 8-pin header ......................................................  5
+ 9.- 10-pin header .....................................................  1
+10.- DS3231 Real Time Clock Module (J1) ................................  1
+11.- Arduino Mega 2560 Rev3 or compatible ..............................  1
