@@ -1,4 +1,4 @@
-# kenbakuino_MEGA
+# Kenbak-1 MEGA Shield
 Adapting the Mark Wilson's kenbakuino (https://github.com/funnypolynomial/Kenbakuino) to run on the Arduino MEGA.
 
 <div style="text-align: center;">
