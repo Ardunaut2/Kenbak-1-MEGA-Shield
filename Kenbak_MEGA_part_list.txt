@@ -14,3 +14,9 @@ Item  Description                                                        Qty
  9.- 10-pin header .....................................................  1
 10.- DS3231 Real Time Clock Module (J1) ................................  1
 11.- Arduino Mega 2560 Rev3 or compatible ..............................  1
+
+Mechanical Parts (Simple four-legged base):
+ 1.- M3 x 15mm Female-Female Hex Thread Nylon Spacer ...................  4
+ 2.- 7/16" (11mm) W x 1/4" (6mm) Round Rubber Feet Bumpers .............  4
+ 3.- M3 x 6mm Pan Head Machine Screw, Stainless Steel ..................  8
+
