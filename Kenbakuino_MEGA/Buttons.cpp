@@ -49,6 +49,7 @@ word Buttons::Read(){                           // Most significant bit shifted-
       Second = Second >> 1 ;
       if(!digitalRead(ButtonPins[i])) Second |= 0x80;  // Most significan bit first
     }
+    delayMicroseconds(180);      // Delay to match the original Buttons::ShiftIn() function duration.
     return word(Second, First);  
 }
 

@@ -1,4 +1,4 @@
-/* Kenbakuino_MEGA.ino  Ardunaut May 10,2025
+/* Kenbakuino_MEGA.ino  Ardunaut Jun 18,2025
  * Using the Arduino MEGA pins to remove the use of shift registers.
  * Changes:
  *   - Updated PINS.h to remove the shift registers lines and add the individual led and button pins.

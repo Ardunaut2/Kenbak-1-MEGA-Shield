@@ -51,6 +51,7 @@ void LEDs::Display(byte Data, byte Control)
 //    ShiftOut(Data);
     DataOut(Data);
     m_LastData = Data;
+    delayMicroseconds(70);     // Delay to match the original ShiftOut(Data) function duration.    
   }
   
   if (Control != m_LastControl)
