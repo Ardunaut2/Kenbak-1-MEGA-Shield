@@ -1,8 +1,8 @@
 Kenbak MEGA Part List:
 
 Item  Description                                                        Qty
- 1.- Resistor 1/4W 4.7k 5% (R1-R8) .....................................  8
- 2.- Resistor 1/4W 560 5% (R9-R12) .....................................  4
+ 1.- Resistor 1/4W 7.5k 5% (R1-R8) .....................................  8
+ 2.- Resistor 1/4W 1k 5% (R9-R12) .....................................  4
  3.- 3mm Warm White Diffused led (D1-D8) ...............................  8
  4.- 3mm Yellow Diffused led (D9-D12) ..................................  4
  5.- Same Sky TS02-66-43-BK-100-LCR-D Tactile Switch 6x6mm 4.3mm Height 
@@ -19,4 +19,3 @@ Mechanical Parts (Simple four-legged base):
  1.- M3 x 15mm Female-Female Hex Thread Nylon Spacer ...................  4
  2.- 7/16" (11mm) W x 1/4" (6mm) Round Rubber Feet Bumpers .............  4
  3.- M3 x 6mm Pan Head Machine Screw, Stainless Steel ..................  8
-
