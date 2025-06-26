@@ -14,7 +14,7 @@ Arduino MEGA pinout
 <div style="text-align: center;">
   <img src="/Pictures/Kenbak-1_MEGA_parts.jpg" alt="Centered image" style="display: block; margin: 0 auto;">
 </div>
-Kenbak-1 MEGA parts (Check "Kenbak_MEGA_part_list.txt")
+
 
 
 
